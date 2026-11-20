@@ -1,4 +1,4 @@
-:HL["/agroha-bank/_next/static/chunks/28l8ay5c_4850.css","style"]
+:HL["/agroha-bank/_next/static/chunks/0ltpexidduc01.css","style"]
 :HC["/",""]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"Qr0I4rm79bX5T6NaBIuiM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"6Rz-2ALBf4V8UXvX1RXIP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
